@@ -6,9 +6,7 @@ const Button = ({ result }) => {
       <button
         className="button"
         onClick={() => {
-          alert(
-            "Thank you for choosing Tesla. Your car will be ready as soon as possible!"
-          );
+          alert("Thank you for choosing Tesla");
         }}
       >
         Buy !
