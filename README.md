@@ -1,7 +1,13 @@
-## Tesla Configuration
+# Tesla
 
-### Made with _React_
+Configure your Tesla according to the color & the car
 
-https://configurer-votre-tesla.netlify.app
+### _Languages_ & _Packages_
 
-  <img src="./picture.png" width="350" alt="Tesla Config">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+
+### _Deployment_
+
+[Netlify](https://configurer-votre-tesla.netlify.app)
+
+  <img src="./src/assets/Tesla.png" width="350" alt="Tesla">
